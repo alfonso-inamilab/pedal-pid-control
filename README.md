@@ -8,9 +8,11 @@ Samples to control the Performance Pedal with Arduino and AS5600 magnetic encode
 ## Hardware setup 
 
 ### **Accelerometer setup**
-The magnetic encoder (AS5600) is located on the side of the pedal using a 3D printed stand. 
+The magnetic encoder (AS5600) is located on the side of the pedal using a 3D printed stand.
 
-The 3D model of this stand can be found in 'models' folder.
+![Magnetic encoder stand](https://i.ibb.co/6XxdNg8/20210707-165509.jpg)
+
+The 3D model of this stand can be found in <code>models</code> folder.
 
 The recomended magnet for this task is: https://www.amazon.co.jp/-/en/gp/product/B08XNFY3Y2/ref=ox_sc_act_title_1?smid=A1X8LI5R2IUBMO&psc=1
 
